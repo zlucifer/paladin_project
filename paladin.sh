@@ -167,7 +167,7 @@ if [ $start = "y" ]; then
                 set lport 4444;
                 exploit"
             else
-                echo "kesalahan"
+                echo "Kesalahan"
             fi
         else
             echo "Kesalahan"
